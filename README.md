@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jai Chawla</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reconj4yz&label=Profile%20views&color=0e75b6&style=flat" alt="reconj4yz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaichawlacodes&label=Profile%20views&color=0e75b6&style=flat" alt="jaichawlacodes" /> </p>
 
 
 # 💫 About Me:
@@ -19,9 +19,9 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=reconj4yz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=reconj4yz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reconj4yz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jaichawlacodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jaichawlacodes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaichawlacodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
